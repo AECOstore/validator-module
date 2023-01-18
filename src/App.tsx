@@ -7,7 +7,7 @@ const App = ({piral} : {piral: PiletApi}) => {
 
   return (
     <div>
-      I am a validator API
+      I am a validator API.
     </div>
   )
 }
